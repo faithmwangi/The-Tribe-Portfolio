@@ -3,9 +3,7 @@ The-Tribe-Portfolio
 ### Author : Faith Mwangi March 10 2023
 ****
 ## Project Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is me.I share about my skills, educational background, hobbies and my favourite sports activities and also how to contact me.
 ******
 
 ## SCREENSHOTS
@@ -16,10 +14,9 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
+* [HTML](html.com)
+* [css](Framework URL)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
 
 
 ### Getting Files
@@ -34,27 +31,23 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->  $ pip install -r requirements.txt
-To install all requirements
+> Clone repository
 
-> $ python3 manage.py runserver
-Then run server with the above command
+
+> Run using live server
 *****
 ## Live Link
 Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
+- Google fonts
+- Font awesome Icons
+- Particles JS
 *****
 ## Technologies Used
 1. HTML
-2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+2. CSS
+3. JavaScript
 *****
 ## Contact Information
 * Email : faith.mwangi01@student.moringaschool.com
