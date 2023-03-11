@@ -7,8 +7,8 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-- link 1
-- link 2
+- https://user-images.githubusercontent.com/126608910/224505427-5352715a-a72c-468f-b6a9-38984a49b86a.png
+- https://user-images.githubusercontent.com/126608910/224505431-9067a5d8-bc94-4f1f-af6e-7ccedfc3a094.png
 
 
 ********
