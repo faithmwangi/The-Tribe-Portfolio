@@ -7,9 +7,8 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-- https://user-images.githubusercontent.com/126608910/224505427-5352715a-a72c-468f-b6a9-38984a49b86a.png
-- https://user-images.githubusercontent.com/126608910/224505431-9067a5d8-bc94-4f1f-af6e-7ccedfc3a094.png
-
+<img width="1440" alt="Screenshot 2023-03-10 at 20 29 44" src="https://user-images.githubusercontent.com/126608910/224505427-5352715a-a72c-468f-b6a9-38984a49b86a.png">
+<img width="1416" alt="Screenshot 2023-03-10 at 20 29 58" src="https://user-images.githubusercontent.com/126608910/224505431-9067a5d8-bc94-4f1f-af6e-7ccedfc3a094.png">
 
 ********
 ## SetUp Instruction
